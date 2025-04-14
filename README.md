@@ -1,13 +1,8 @@
 @@ -21,70 +21,70 @@
 
-<div align="center" style="display: inline_block">
-  <a href = "mailto:danielguedesgo01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%237159c1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel_Guedes&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <a href="https://instagram.com/d.gueedess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
 
 
-<hr>
+
 
 
   <div align="center" style="display: inline_block">
@@ -29,17 +24,10 @@
     <img align="center" alt="Atila-c++" height="40" width="40" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000">
   </div>
   <br>
-      <div align="center" style="display: inline_block">
-    - TESTING TOOLS:
-  </div>
-    <br>
+  
   <div align="center" style="display: inline_block">
     <img align="center" alt="Atila-Jest" height="40" width="40" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png">
     <img align="center" alt="Atila-Cypress" height="40" width="40" src="https://www.cypress.io/_astro/cypress-logo.D87396b0.svg"></img>
-  </div>
-    <br>
-      <div align="center" style="display: inline_block">
-    - OTHERS:
   </div>
     <br>
   <div align="center" style="display: inline_block">

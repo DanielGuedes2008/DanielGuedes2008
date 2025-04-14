@@ -3,18 +3,12 @@
 <div align="center" style="display: inline_block">
   <a href = "mailto:atilacleiton52@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%237159c1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atila_vasck&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <a href="https://instagram.com/atila_vasck" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/d.gueedess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 
 <hr>
-  <div align="center" style="display: inline_block">
-    - 😀 Technologies I use.
-  <div>
-    <div align="center" style="display: inline_block">
-    - FRONT-END:
-    </div>
-    <br>   
+
 
   <div align="center" style="display: inline_block">
     <img align="center" alt="Atila-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
